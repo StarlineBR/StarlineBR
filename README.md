@@ -13,4 +13,5 @@
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
 
 ![StarlineBR github stats](https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)
+
 ![StarlineBR github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&layout=compact)
