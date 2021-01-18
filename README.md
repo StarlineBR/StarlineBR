@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienpremium.com)](https://www.staralienpremium.com)
 
  👽  Development / Programming as a hobby.
-
+---
 #### :building_construction: Languages and tools:
 
 <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
