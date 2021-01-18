@@ -3,6 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/StarlineBR)](https://github.com/StarlineBR)
 [![Website Badge](https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienpremium.com)](https://www.staralienpremium.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
 
  👽  Development / Programming as a hobby.
 ---
