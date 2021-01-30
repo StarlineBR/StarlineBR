@@ -7,12 +7,15 @@
 
  👽  Development / Programming as hobby.
 ---
-#### :building_construction: Languages and tools:
+#### :building_construction: Languages,software, tools and more:
 
 <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/></a>
+<a href="https://www.microsoft.com/"><img src="https://img.icons8.com/color/30/000000/windows-10.png"/></a>
 
 
 ![StarlineBR github stats](https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)
