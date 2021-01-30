@@ -18,6 +18,7 @@
 <a href="https://docs.mongodb.com"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
 <a href="https://www.adobe.com/br/products/photoshop"><img src="https://img.icons8.com/fluent/30/000000/adobe-photoshop.png"/></a>
 <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/color/30/000000/notepad-plus-plus.png"/></a>
+<a href="https://www.virtualbox.org"><img src="https://img.icons8.com/color/30/000000/virtualbox.png"/></a>
 <a href="https://www.microsoft.com/"><img src="https://img.icons8.com/color/30/000000/windows-10.png"/></a>
 
 
