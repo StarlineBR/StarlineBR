@@ -18,5 +18,5 @@
 <a href="https://www.microsoft.com/"><img src="https://img.icons8.com/color/30/000000/windows-10.png"/></a>
 
 
-![StarlineBR github stats](https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=0d1117)
-![StarlineBR github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&bg_color=0d1117&layout=compact)
+![StarlineBR github stats](https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=808080)
+![StarlineBR github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&bg_color=808080&layout=compact)
