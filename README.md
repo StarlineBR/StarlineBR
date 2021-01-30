@@ -7,7 +7,7 @@
 
  👽  Development / Programming as hobby.
 ---
-#### :building_construction: Languages,software, tools and more:
+#### :building_construction: Languages, software, tools and more:
 
 <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
