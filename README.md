@@ -19,7 +19,7 @@
 <a href="https://www.adobe.com/br/products/photoshop"><img src="https://img.icons8.com/fluent/30/000000/adobe-photoshop.png"/></a>
 <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/color/30/000000/notepad-plus-plus.png"/></a>
 <a href="https://www.virtualbox.org"><img src="https://img.icons8.com/color/30/000000/virtualbox.png"/></a>
-<a href="https://www.kali.org"><img src="https://img.icons8.com/color/30/000000/kali-linux.png"/></a>
+<a href="https://www.kali.org/downloads/"><img src="https://img.icons8.com/color/30/000000/kali-linux.png"/></a>
 <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img src="https://img.icons8.com/color/30/000000/windows-10.png"/></a>
 
 
