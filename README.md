@@ -23,6 +23,9 @@
 <a href="https://www.kali.org/downloads/"><img src="https://img.icons8.com/color/30/000000/kali-linux.png"/></a>
 <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img src="https://img.icons8.com/color/30/000000/windows-10.png"/></a>
 
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="StarAlien Spotify Playing" width="350" />](https://open.spotify.com/user/StarAlien)
+
 
 ![StarlineBR github stats](https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=ffffff)
 ![StarlineBR github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&bg_color=ffffff&layout=compact)
