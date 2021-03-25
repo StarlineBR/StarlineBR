@@ -9,6 +9,10 @@ Hello World 👋
 ! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
 ```
+
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="StarAlien Spotify Playing" width="350" />](https://discord.gg/pAMsAaG)
+  
 ---
 
 [![Github Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/StarlineBR)](https://github.com/StarlineBR)
