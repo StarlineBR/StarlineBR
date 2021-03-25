@@ -11,8 +11,7 @@ Hello World 👋
 ```
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="StarAlien Spotify Playing" width="350" />](https://discord.gg/pAMsAaG)
-  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexjunioralves31&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=alexjunioralves31&redirect=true)
 ---
 
 [![Github Badge](https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white&link=https://github.com/StarlineBR)](https://github.com/StarlineBR)
