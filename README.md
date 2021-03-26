@@ -5,7 +5,7 @@ Hello World 👋
 
 @@ I'm StarlineBR @@
 + 📌 Living in MG, Brazil 🇧🇷.
-- 🗓 28/04/1997
+- 📅 28/04/1997
 ! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
 ```
