@@ -1,4 +1,9 @@
-### StarlineBR
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=StarlineBR&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/367893062812434432.png" />
+</p>
 
 ```diff
 Hello World 👋
@@ -36,5 +41,20 @@ Hello World 👋
 <a href="https://www.kali.org/downloads/"><img src="https://img.icons8.com/color/30/000000/kali-linux.png"/></a>
 <a href="https://www.microsoft.com/pt-br/software-download/windows10"><img src="https://img.icons8.com/color/30/000000/windows-10.png"/></a>
 
-![StarlineBR github stats](https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=ffffff)
-![StarlineBR github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&bg_color=ffffff&layout=compact)
+<p align="center">
+<details>
+  <summary>Mais</summary>
+<details>
+  <summary>Contato</summary>
+<p align="center">
+A melhor maneira de entrar em contato comigo é entrando no meu servidor discord e, em seguida, me enviando um DM. Eu não aceito pedidos de amizade.
+</p>
+<a href="https://www.staralienpremium.com"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienpremium.com"/></a>ﾠ
+<a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336"/></a>
+</details>
+<details>
+  <summary>Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&bg_color=ffffff&layout=compact">
+</details>
+</details>
