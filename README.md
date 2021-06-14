@@ -50,8 +50,8 @@ Hello World 👋
 A melhor maneira de entrar em contato comigo é entrando no meu servidor discord e, em seguida, me enviando um DM. Eu não aceito pedidos de amizade.
 </p>
 <a href="https://www.staralienpremium.com"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white&link=https://www.staralienpremium.com"/></a>ﾠ
-<a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&message=Servidor de suporte&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336"/></a>ﾠ
-<a href="https://lkt.name/Ravena666"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&message=Ravena666&logo=google-chrome&logoColor=white&link=https://lkt.name/Ravena666"/></a>ﾠ
+<a href="https://discord.gg/pAMsAaG"><img src="https://img.shields.io/badge/-Servidor%20de%20suporte-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336"/></a>ﾠ
+<a href="https://lkt.name/Ravena666"><img src="https://img.shields.io/badge/-WebSite%20Ravena666-0080FF?style=flat-square&labelColor=0080FF&message=Ravena666&logo=google-chrome&logoColor=white&link=https://lkt.name/Ravena666"/></a>ﾠ
 </details>
 <details>
   <summary>Stats</summary>
