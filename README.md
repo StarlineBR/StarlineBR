@@ -13,7 +13,7 @@ Hello World 👋
 - 📅 28/04/1997
 ! 💻 I'm a computer technician.
 # 🎮 Technology lover, developer, musician and more...
-#👽  Development / Programming as hobby.
+# 👽  Development / Programming as hobby.
 ```
 
 ### Spotify Playing 🎧
