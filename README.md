@@ -25,7 +25,6 @@ Hello World 👋
 [![Discord Badge](https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white&link=https://top.gg/servers/656550731934990336)](https://top.gg/servers/656550731934990336)
 
 ---
-![Ravena animation](https://i.imgur.com/XC2VUcA.gif)
 ![Snake animation](https://github.com/StarlineBR/snake/blob/main/snake.svg)
 <p align="center">
 <details>
