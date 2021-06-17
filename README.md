@@ -66,6 +66,6 @@ A melhor maneira de entrar em contato comigo é entrando no meu servidor discord
 <details>
   <summary>Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=StarlineBR&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&bg_color=ffffff&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarlineBR&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </details>
 </details>
